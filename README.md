@@ -30,7 +30,7 @@
 
 商家详情页
 
-http://39.96.84.220/ele[/index/recom](http://39.97.112.68:8088/ele//index/recom)
+[http://39.96.84.220/ele/index/recom](http://39.97.112.68:8088/ele//index/recom)
 
 
 
